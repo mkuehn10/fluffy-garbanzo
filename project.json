@@ -1,6 +1,6 @@
 {
   "name": "GitTest",
-  "description": "Blank Process",
+  "description": "Testing a change to the project description.",
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.10.4]",
